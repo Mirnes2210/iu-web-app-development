@@ -1,6 +1,6 @@
 # iu-web-app-development
 Examples for Web Development Advanced Workbook
 
-Task 3 - product.html 
-Task 4 - products.html
-Task 5 - vue-demo.html
+<strong>Task 3</strong> - product.html<br>
+<strong>Task 4</strong> - products.html<br>
+<strong>Task 5</strong> - vue-demo.html
